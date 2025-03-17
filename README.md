@@ -5,11 +5,7 @@ Fokir is a personal portfolio website built as a CSS training project. It showca
 ## 🌐 Live Demo
 
 [View the Website](https://mena-erian.github.io/Fokir/)
-
-## 📂 Project Repository
-
-[GitHub Repository](https://github.com/Mena-Erian/Fokir)
-
+ 
 ## 🛠 Technologies Used
 
 -   **HTML5** – Semantic structure for better accessibility and SEO.
@@ -45,7 +41,3 @@ Simply open `index.html` in your browser.
 -   💼 **LinkedIn:** [linkedin.com/in/mena-erian-farouk](https://www.linkedin.com/in/mena-erian-farouk-904372255)
 
 Have questions or want to collaborate? Feel free to reach out!
-
----
-
-💡 _This README is designed to be clear, engaging, and professional. Modify it as needed!_
